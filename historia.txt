@@ -1,0 +1,2 @@
+Esto es un archovo de texto
+Se probara el sistema de control de verisones GIT
