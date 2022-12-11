@@ -1,2 +1,3 @@
-Esto es un archovo de texto
+Esto es un archivo de texto
 Se probara el sistema de control de verisones GIT
+Esta es una prueba para cambiar el archivo
