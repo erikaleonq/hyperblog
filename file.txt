@@ -1,4 +1,6 @@
 Nuevo archivo de prueba
 
-Borrar con rm o reset
+Borrar rm o reset
 Este es el nuevo cambio al archivo
+
+Nuaveamnete agrego caambios al archivo
